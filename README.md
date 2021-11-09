@@ -28,7 +28,7 @@ Step 7) To edit your RP state, edit "state.txt".\
 Step 8) For the first time, you need to run "installpackages.py" (you will need pip).
 Step 9) Now execute "main.py" in that folder (you need Discord running, and not in the browser!)
 
-# Build .exe
+# Build a exe file for Windows
 
 Step 1) [Click here](https://github.com/s4300/Discord-RPC-Generator/releases) and select "Source code (.zip)".\
 Step 2) Extract it anywhere.\
